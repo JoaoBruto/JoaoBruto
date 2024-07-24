@@ -15,7 +15,7 @@ Interesses: Java, C++ e TypeScript
 </a>
 </p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ### 👨‍💻 Linguagens (languages)
 
