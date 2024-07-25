@@ -3,7 +3,7 @@
 ### Olá, meu nome é João Rodrigo!
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
-Atualmente estudando JavaScript, NodeJS e Python.
+Atualmente estudando Python, Notebook, CSS e HTML
 Interesses: Java, C++ e TypeScript
 
 ### ⚙️ &nbsp;Análise do GitHub! (GitHub Analytics!)
@@ -15,14 +15,22 @@ Interesses: Java, C++ e TypeScript
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBruto&layout=compact&theme=gotham&langs_count=8"/>
 </div>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+### 🔥 Stats
+
+![JoaoBruto's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=JoaoBruto&theme=tokyonight)
 
 ### 👨‍💻 Linguagens (languages)
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+### Interesses (Interests)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
 
 
 
@@ -31,10 +39,7 @@ Interesses: Java, C++ e TypeScript
 <a href="https://instagram.com/_joaoroodrigo"><img src="https://img.shields.io/badge/__joaoroodrigo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:joaofreire185710@gmail.com"><img src="https://img.shields.io/badge/-joaofreire185710@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-<!-- contador de visitantes (visitor counter) -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/JoaoBruto/count.svg" />  
-</p>
+
    
 
  <br>
