@@ -10,10 +10,10 @@ Interesses: Java, C++ e TypeScript
 
 <p align="center">
 <a href="https://github.com/JoaoBruto">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoBruto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaoBruto&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div style="display:grid;align-items:center;justify-content:center">
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=JoaoBruto&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBruto&layout=compact&theme=gotham&langs_count=8"/>
+</div>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
