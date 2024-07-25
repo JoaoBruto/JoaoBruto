@@ -30,3 +30,14 @@ Interesses: Java, C++ e TypeScript
 ### 🤝🏻 &nbsp;Entre em contato comigo! (Contact me!)
 <a href="https://instagram.com/_joaoroodrigo"><img src="https://img.shields.io/badge/__joaoroodrigo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:joaofreire185710@gmail.com"><img src="https://img.shields.io/badge/-joaofreire185710@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+<!-- contador de visitantes (visitor counter) -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/JoaoBruto/count.svg" />  
+</p>
+   
+
+ <br>
+  <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
