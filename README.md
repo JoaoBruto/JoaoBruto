@@ -3,7 +3,8 @@
 ### Olá, meu nome é João Rodrigo!
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
-Atualmente estudando Python, Java, C#, Html, Css, JavaScript
+Atualmente estudando Python, Java, C#, Html, Css, JavaScript.
+
 Interesses: Java, C++ e TypeScript
 
 ### ⚙️ &nbsp;Análise do GitHub! (GitHub Analytics!)
