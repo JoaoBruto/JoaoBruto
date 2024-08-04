@@ -3,7 +3,7 @@
 ### Olá, meu nome é João Rodrigo!
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
-Atualmente estudando Python, Notebook, CSS e HTML
+Atualmente estudando Python, Java, C#, Html, Css, JavaScript
 Interesses: Java, C++ e TypeScript
 
 ### ⚙️ &nbsp;Análise do GitHub! (GitHub Analytics!)
@@ -26,6 +26,7 @@ Interesses: Java, C++ e TypeScript
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 ### Interesses (Interests)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
