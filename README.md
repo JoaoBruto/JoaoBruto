@@ -3,7 +3,7 @@
 ### Olá, meu nome é João Rodrigo!
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
-Atualmente estudando Python pela Fiap e Desenvolvimento Orientado a Objetos Utilizando a Linguagem Python pela Fundação Bradesco, com certificado em lógica de programação pelo Senac. Com interesse na compreendeção e aprendizado nas seguintes linguagens: Java, C#, Html, Css, JavaScript,  Go, e Php.
+Atualmente estudando Python pela Fiap e Desenvolvimento Orientado a Objetos Utilizando a Linguagem Python pela Fundação Bradesco, com certificado em lógica de programação pelo Senac. Com interesse na compreensão e aprendizado nas seguintes linguagens: Java, C#, Html, Css, JavaScript,  Go, e Php.
 
 
 ### ⚙️ &nbsp;Análise do GitHub! (GitHub Analytics!)
@@ -24,10 +24,10 @@ Atualmente estudando Python pela Fiap e Desenvolvimento Orientado a Objetos Util
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /><img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 
 ### Interesses (Interests)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  /><img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  /></div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  /></div>
