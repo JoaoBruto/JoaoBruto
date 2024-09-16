@@ -8,13 +8,12 @@ Atualmente estudando Python pela Fiap e Desenvolvimento Orientado a Objetos Util
 
 ### ⚙️ &nbsp;Análise do GitHub! (GitHub Analytics!)
 
-<p align="center">
-<a href="https://github.com/JoaoBruto">
-<div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=JoaoBruto&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBruto&layout=compact&theme=gotham&langs_count=8"/>
-</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoBruto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=JoaoBruto&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBruto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 ### 🔥 Stats
 
 ![JoaoBruto's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=JoaoBruto&theme=tokyonight)
