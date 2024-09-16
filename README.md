@@ -3,7 +3,7 @@
 ### Olá, meu nome é João Rodrigo!
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
-Atualmente estudando Python pela Fiap e Desenvolvimento Orientado a Objetos Utilizando a Linguagem Python pela Fundação Bradesco, com certificado em lógica de programação pelo Senac. Com interesse na compreensão e aprendizado nas seguintes linguagens: Java, C#, Html, Css, JavaScript,  Go, e Php.
+Atualmente, estudando Python pela FIAP e Desenvolvimento Orientado a Objetos utilizando a linguagem Python pela Fundação Bradesco, com certificado em Lógica de Programação pelo Senac e certificado em JavaScript pela Rocketseat. Tenho interesse na compreensão e aprendizado das seguintes linguagens: Java, C#, HTML, CSS, JavaScript, Go e PHP.
 
 
 ### ⚙️ &nbsp;Análise do GitHub! (GitHub Analytics!)
