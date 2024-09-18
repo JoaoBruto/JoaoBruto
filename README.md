@@ -9,14 +9,10 @@ Atualmente, estudando Python pela FIAP e Desenvolvimento Orientado a Objetos uti
 ### ⚙️ &nbsp;Análise do GitHub! (GitHub Analytics!)
 
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoBruto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="152" alt="stats graph"  />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoBruto&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
 
   ### 🔥 Stats
-  <img src="https://streak-stats.demolab.com?user=JoaoBruto&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=10" height="150" alt="streak graph"  />
-</div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoBruto&theme=radical&hide_border=true"/><br><br>
 
 ### 💡 Top Linguagens
 
