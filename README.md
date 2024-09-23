@@ -6,17 +6,14 @@
 Atualmente, estudando Python pela FIAP e Desenvolvimento Orientado a Objetos utilizando a linguagem Python pela Fundação Bradesco, com certificado em Lógica de Programação pelo Senac e certificado em JavaScript pela Rocketseat. Tenho interesse na compreensão e aprendizado das seguintes linguagens: Java, C#, HTML, CSS, JavaScript, Go e PHP.
 
 
-### ⚙️ &nbsp;Análise do GitHub! (GitHub Analytics!)
+### 🔥 Stats
+<br clear="both">
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoBruto&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
-
-  ### 🔥 Stats
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoBruto&theme=radical&hide_border=true"/><br><br>
-
-### 💡 Top Linguagens
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBruto&langs_count_private=true&theme=radical&card_width=445)<br><br>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoBruto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="152" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBruto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=JoaoBruto&locale=en&mode=daily&theme=react&hide_border=false&border_radius=10" height="150" alt="streak graph"  />
+</div>
 
 
 ### 👨‍💻 Linguagens (languages)
