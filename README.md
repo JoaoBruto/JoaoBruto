@@ -13,8 +13,8 @@ Atualmente, estudando Python pela FIAP e Desenvolvimento Orientado a Objetos uti
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+<img align="right" height="130" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp6cXlieG0ybWNhaDFicGlreHJtZDA5YXg5c3NkZzczM2c2amVscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
 
 <!--- stats & Trophy (start) -->
 
