@@ -10,9 +10,6 @@ Atualmente, estudando Python pela FIAP e Desenvolvimento Orientado a Objetos uti
 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /><img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-
 
 
 <!--- stats & Trophy (start) -->
@@ -24,6 +21,9 @@ Atualmente, estudando Python pela FIAP e Desenvolvimento Orientado a Objetos uti
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBruto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="130" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=JoaoBruto&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=10" height="130" alt="streak graph"  />
 </div>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /><img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 
 
 <td width="50%" align="center">
