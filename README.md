@@ -3,7 +3,7 @@
 ### Olá, meu nome é João Rodrigo!
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
-Atualmente, estudando Python pela FIAP, Programação Orientada a Objetos utilizando a linguagem Python pela Fundação Bradesco, com certificado em Lógica de Programação pelo Senac e certificado em JavaScript pela Rocketseat. Tenho interesse na compreensão e aprendizado das seguintes linguagens: Java, C#, HTML, CSS, JavaScript, Go e PHP.
+Atualmente, estudando Python pela FIAP, Programação Orientada a Objetos utilizando a linguagem Python pela Fundação Bradesco, com certificado em Lógica de Programação pelo Senac e certificado em JavaScript pela Rocketseat. Tenho interesse na compreensão e aprendizado das seguintes linguagens: TypeScript, C#, HTML, CSS, JavaScript, Java e PHP.
 ### 🤝🏻 &nbsp;Entre em contato comigo! (Contact me!)
 <a href="https://instagram.com/_joaoroodrigo"><img src="https://img.shields.io/badge/__joaoroodrigo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:joaofreire151208@gmail.com"><img src="https://img.shields.io/badge/-joaofreire151208@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -41,9 +41,22 @@ Atualmente, estudando Python pela FIAP, Programação Orientada a Objetos utiliz
 <br>
 
 -----
-
+## 👽 Linguagens
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+
+
+## 🐛 Outros
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+</div>
+
+
 
 
 <td width="50%" align="center">
