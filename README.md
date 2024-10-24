@@ -14,7 +14,7 @@ Atualmente, estudando Python pela FIAP e Desenvolvimento Orientado a Objetos uti
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 <!--- stats & Trophy (start) -->
 
 <p align="left">
