@@ -6,7 +6,7 @@
 Atualmente, estudando Python pela FIAP, Programação Orientada a Objetos utilizando a linguagem Python pela Fundação Bradesco, com certificado em Lógica de Programação pelo Senac e certificado em JavaScript pela Rocketseat. Tenho interesse na compreensão e aprendizado das seguintes linguagens: TypeScript, C#, HTML, CSS, JavaScript, Java e PHP.
 ### 🤝🏻 &nbsp;Entre em contato comigo! (Contact me!)
 <a href="https://instagram.com/_joaoroodrigo"><img src="https://img.shields.io/badge/__joaoroodrigo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:joaofreire151208@gmail.com"><img src="https://img.shields.io/badge/-joaofreire151208@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:joaofreire2408@gmail.com"><img src="https://img.shields.io/badge/-joaofreire2408@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
