@@ -22,7 +22,7 @@ Atualmente, estudando Python pela FIAP, Programação Orientada a Objetos utiliz
 <p>
     <a align="left">
       <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBruto&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="JoaoBruto" /></p></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBruto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="130" alt="languages graph"  />
     <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=JoaoBruto&show_icons=true&theme=dark&locale=en" alt="JoaoBruto" /></p></a>  
   </p>
 </p>
