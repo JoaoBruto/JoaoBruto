@@ -4,14 +4,19 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
 🎓 Estudante do 1º ano do Ensino Médio
-💻 Desenvolvedor Júnior em aprendizado contínuo
-🌟 Atualmente, estou focado no desenvolvimento de habilidades em Python e explorando tecnologias como HTML, CSS, C#, TypeScript, PHP, e Node.js para Back-End.
 
-📚 Interesses:
+💻 Desenvolvedor Júnior apaixonado por tecnologia e aprendizado contínuo
 
-Desenvolvimento de soluções práticas e criativas.
-Projetos que envolvam aprendizado colaborativo.
-Construir uma base sólida para minha carreira em tecnologia.
+
+🌟 Atualmente, focado em:
+Aprimorar habilidades em Python.
+Explorar tecnologias como HTML, CSS, C#, TypeScript, PHP, e Node.js para desenvolvimento Back-End.
+📚 Meus interesses incluem:
+
+Criar soluções práticas e inovadoras para problemas do dia a dia.
+Trabalhar em projetos colaborativos que estimulem o aprendizado e o trabalho em equipe.
+Construir uma base sólida para crescer profissionalmente na área de tecnologia.
+🚀 Objetivo: Desenvolver projetos que unam criatividade e eficiência enquanto contribuo para a comunidade de desenvolvedores.
 ### 🤝🏻 &nbsp;Entre em contato comigo! (Contact me!)
 <a href="https://instagram.com/_joaoroodrigo"><img src="https://img.shields.io/badge/__joaoroodrigo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:joaofreire2408@gmail.com"><img src="https://img.shields.io/badge/-joaofreire2408@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
