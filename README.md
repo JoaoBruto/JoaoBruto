@@ -54,7 +54,7 @@ Desenvolver projetos que unam criatividade e eficiência enquanto contribuo para
   </a>
 </p>
 
-<p align="center">
+
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoBruto&theme=dark&hide_border=true"/>
 </p>
   
