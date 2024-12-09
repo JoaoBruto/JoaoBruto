@@ -42,20 +42,16 @@ Desenvolver projetos que unam criatividade e eficiência enquanto contribuo para
 <hr>
 <div style="display: block;">
 <p>
-    <a align="left">
       <br clear="both">
   <br>
-<p align="center">
+
   <a href="https://github.com/JoaoBruto">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoBruto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoBruto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/JoaoBruto">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaoBruto&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaoBruto&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
-
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoBruto&theme=dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoBruto&theme=dark&hide_border=true"/>
 </p>
   
 
