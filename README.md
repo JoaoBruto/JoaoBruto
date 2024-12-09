@@ -44,12 +44,20 @@ Desenvolver projetos que unam criatividade e eficiência enquanto contribuo para
 <p>
     <a align="left">
       <br clear="both">
+  <br>
+<p align="center">
+  <a href="https://github.com/JoaoBruto">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoBruto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/JoaoBruto">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaoBruto&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoBruto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBruto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="130" alt="languages graph"  />
-<hr>
-<br>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoBruto&theme=dark&hide_border=true"/>
+</p>
+  
 
   
 ## 👽 Linguagens
