@@ -46,7 +46,7 @@ Desenvolver projetos que unam criatividade e eficiência enquanto contribuo para
   <br>
 
   <a href="https://github.com/JoaoBruto">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoBruto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=JoaoBruto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   </a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBruto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="130" alt="languages graph"  />
   </a>
