@@ -11,7 +11,7 @@
 <br />🌟 Atualmente, focado em:</p>
 Aprimorar habilidades em <strong>Python.</strong>
 <br />
-Explorar tecnologias como <strong>HTML, CSS, C#, TypeScript, PHP, e Node.js</strong> para desenvolvimento Back-End.
+Explorar tecnologias como <strong>HTML, CSS, C#, TypeScript, PHP, e Node.js</strong> para desenvolvimento Back-End e Front-End.
 </p>
 📚 Meus interesses incluem:
 <br />
