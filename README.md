@@ -3,7 +3,7 @@
 ### Olá, meu nome é João Rodrigo!
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
-🎓 Estudante do 1º ano do Ensino Médio
+🎓 Estudante do 2º ano do Ensino Médio
 
 <br />
 💻 Desenvolvedor Júnior apaixonado por tecnologia e aprendizado contínuo
