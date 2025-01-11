@@ -47,7 +47,8 @@ Desenvolver projetos que unam criatividade e eficiência enquanto contribuo para
 
  ![](https://github-readme-stats.vercel.app/api?username=JoaoBruto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JoaoBruto&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBruto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBruto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="125" alt="languages graph"  />
+</div>
 
 </p>
   
