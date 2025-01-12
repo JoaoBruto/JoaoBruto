@@ -1,11 +1,8 @@
 <h1 align="center">Hi , I'm João Rodrigo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### Olá, meu nome é João Rodrigo!
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
 🎓 Estudante do 2º ano do Ensino Médio
-
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <br />
 💻 Desenvolvedor Júnior apaixonado por tecnologia e aprendizado contínuo
