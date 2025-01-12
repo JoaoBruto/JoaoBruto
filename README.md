@@ -39,26 +39,28 @@ Desenvolver projetos que unam criatividade e eficiência enquanto contribuo para
 <p align="left">
   <!--- stats (start) -->
 <!-- GITHUB STATS -->
-<hr>
-<div style="display: block;">
-<p>
-      <br clear="both">
-  <br>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
 
- ![](https://github-readme-stats.vercel.app/api?username=JoaoBruto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JoaoBruto&theme=dark&hide_border=false)<br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBruto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="125" alt="languages graph"  />
-</div>
 
-</p>
-  
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBruto&show_icons=true&theme=dark&locale=en&layout=compact" alt="JoaoBruto" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=JoaoBruto&show_icons=true&theme=dark&locale=en" alt="JoaoBruto" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoBruto&theme=dark" /></p>
+
+<hr width="60%" >
+
+
+<hr width="60%" >
   
 
   
 ## 👽 Linguagens
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
 
 
 ## 🐛 Outros
