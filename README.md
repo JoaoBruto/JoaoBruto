@@ -5,6 +5,8 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
 🎓 Estudante do 2º ano do Ensino Médio
 
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
 <br />
 💻 Desenvolvedor Júnior apaixonado por tecnologia e aprendizado contínuo
 </p>
@@ -13,7 +15,6 @@ Aprimorar habilidades em <strong>Python.</strong>
 <br />
 Explorar tecnologias como <strong>HTML, CSS, C#, TypeScript, PHP, e Node.js</strong> para desenvolvimento Back-End e Front-End.
 </p>
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 📚 Meus interesses incluem:
 <br />
 Criar soluções práticas e inovadoras para problemas do dia a dia.
@@ -59,13 +60,13 @@ Desenvolver projetos que unam criatividade e eficiência enquanto contribuo para
   
 
   
-## 👽 Linguagens
+## 👽 Linguagens (Languages)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
 
 
-## 🐛 Outros
+## 🐛 Outros (outhers)
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
@@ -73,6 +74,7 @@ Desenvolver projetos que unam criatividade e eficiência enquanto contribuo para
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
+  
 </div>
 
 
