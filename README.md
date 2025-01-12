@@ -13,6 +13,7 @@ Aprimorar habilidades em <strong>Python.</strong>
 <br />
 Explorar tecnologias como <strong>HTML, CSS, C#, TypeScript, PHP, e Node.js</strong> para desenvolvimento Back-End e Front-End.
 </p>
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 📚 Meus interesses incluem:
 <br />
 Criar soluções práticas e inovadoras para problemas do dia a dia.
@@ -24,6 +25,7 @@ Construir uma base sólida para crescer profissionalmente na área de tecnologia
 🚀 Objetivo: 
 
 Desenvolver projetos que unam criatividade e eficiência enquanto contribuo para a comunidade de desenvolvedores.
+
 
 
 ### 🤝🏻 &nbsp;Entre em contato comigo! (Contact me!)
