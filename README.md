@@ -8,7 +8,7 @@
 💻 Desenvolvedor Júnior apaixonado por tecnologia e aprendizado contínuo
 </p>
 <br />🌟 Atualmente, focado em:</p>
-Aprimorar habilidades em <strong>Python.</strong>
+Aprimorar habilidades em desenvolvimento<strong>Front-end.</strong>
 <br />
 Explorar tecnologias como <strong>HTML, CSS, C#, TypeScript, PHP, e Node.js</strong> para desenvolvimento Back-End e Front-End.
 </p>
@@ -29,6 +29,7 @@ Desenvolver projetos que unam criatividade e eficiência enquanto contribuo para
 ### 🤝🏻 &nbsp;Entre em contato comigo! (Contact me!)
 <a href="https://instagram.com/_joaoroodrigo"><img src="https://img.shields.io/badge/__joaoroodrigo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:joaofreire2408@gmail.com"><img src="https://img.shields.io/badge/-joaofreire2408@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-rodrigo-ferreira-freire-a6b23b319/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
