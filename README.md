@@ -75,7 +75,10 @@ Desenvolver projetos que unam criatividade e eficiência enquanto contribuo para
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="1" />
-  
+
+
+## 📕 Livros lidos (books read)
+• Entendendo Algoritmos (Understanding algorithms)
 </div>
 
 
