@@ -8,7 +8,7 @@
 💻 Desenvolvedor Júnior apaixonado por tecnologia e aprendizado contínuo
 </p>
 <br />🌟 Atualmente, focado em:</p>
-Aprimorar habilidades em desenvolvimento <strong>Front-end.</strong>
+Aprimorar habilidades em desenvolvimento <strong>Front-end.</strong>, mas pretendo estudar back-end no futuro
 <br />
 Explorar tecnologias como <strong>HTML, CSS, C#, TypeScript, PHP, e Node.js</strong> para desenvolvimento Back-End e Front-End.
 </p>
