@@ -1,29 +1,42 @@
-<h1 align="center">Hi , I'm João Rodrigo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+## 👋 Olá! Meu nome é João Rodrigo
 
+🎓 Estudante do 2º ano do Ensino Médio  
+💻 Desenvolvedor Júnior apaixonado por tecnologia e aprendizado contínuo  
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
-🎓 Estudante do 2º ano do Ensino Médio
+---
 
-<br />
-💻 Desenvolvedor Júnior apaixonado por tecnologia e aprendizado contínuo
-</p>
-<br />🌟 Atualmente, focado em:</p>
-Aprimorar habilidades em desenvolvimento <strong>Front-end.</strong>, mas pretendo estudar back-end no futuro
-<br />
-Explorar tecnologias como <strong>HTML, CSS, C#, TypeScript, PHP, e Node.js</strong> para desenvolvimento Back-End e Front-End.
-</p>
-📚 Meus interesses incluem:
-<br />
-Criar soluções práticas e inovadoras para problemas do dia a dia.
-</p>
-Trabalhar em projetos colaborativos que estimulem o aprendizado e o trabalho em equipe.
-<br />
-Construir uma base sólida para crescer profissionalmente na área de tecnologia.
-</p>
-🚀 Objetivo: 
+### 🚀 Atualmente focado em:
+- Aprimorar habilidades no **desenvolvimento Front-end**
+- Estudando **HTML5**, **CSS3**, **JavaScript** e **TypeScript**
+- Explorando tecnologias de **Back-end** como **Node.js**, **PHP** e **MySQL**
+- Me aprofundando em **algoritmos** e **lógica de programação** com **Python** e **C#**
 
-Desenvolver projetos que unam criatividade e eficiência enquanto contribuo para a comunidade de desenvolvedores.
+---
 
+### 📚 Interesses:
+- Criar soluções práticas para problemas do dia a dia  
+- Trabalhar em projetos colaborativos  
+- Construir uma base sólida para crescer na área de tecnologia  
+- Estudar e praticar **Engenharia de Software**
+
+---
+
+### 🎯 Objetivo:
+Desenvolver projetos que unam **criatividade**, **eficiência** e **responsabilidade**, contribuindo para a comunidade de desenvolvedores e evoluindo constantemente como profissional.
+
+---
+
+### 🛠️ Tecnologias em aprendizado:
+- Front-End: `HTML`, `CSS`, `JavaScript`, `TypeScript`
+- Back-End: `PHP`, `Node.js`, `MySQL`
+- Outros: `Python`, `C#`, `Git & GitHub`
+
+---
+
+### 🌐 Portfólio (em desenvolvimento):
+> Em breve, aqui você encontrará projetos que estou desenvolvendo durante meus estudos!
+
+---
 
 
 ### 🤝🏻 &nbsp;Entre em contato comigo! (Contact me!)
