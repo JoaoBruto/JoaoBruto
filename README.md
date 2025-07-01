@@ -33,6 +33,12 @@ Desenvolver projetos que unam **criatividade**, **eficiência** e **responsabili
 
 ---
 
+## 📕 Livros lidos (books read)
+• Entendendo Algoritmos (Understanding algorithms)
+</div>
+
+---
+
 ### 🌐 Portfólio (em desenvolvimento):
 > Em breve, aqui você encontrará projetos que estou desenvolvendo durante meus estudos!
 
@@ -90,9 +96,6 @@ Desenvolver projetos que unam **criatividade**, **eficiência** e **responsabili
   <img width="1" />
 
 
-## 📕 Livros lidos (books read)
-• Entendendo Algoritmos (Understanding algorithms)
-</div>
 
 
 
