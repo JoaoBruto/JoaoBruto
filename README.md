@@ -6,43 +6,35 @@
 ---
 
 ### 🚀 Atualmente focado em:
-- Aprimorar habilidades no **desenvolvimento Front-end**
+- Aprimorar habilidades no **desenvolvimento Front-End**
 - Estudando **HTML5**, **CSS3**, **JavaScript** e **TypeScript**
-- Explorando tecnologias de **Back-end** como **Node.js**, **PHP** e **MySQL**
-- Me aprofundando em **algoritmos** e **lógica de programação** com **Python** e **C#**
+- Explorando tecnologias de **Back-End** como **Node.js**, **PHP** e **MySQL**
+- Aprofundando conhecimentos em **algoritmos** e **lógica de programação** com **Python** e **C#**
 
 ---
 
 ### 📚 Interesses:
-- Criar soluções práticas para problemas do dia a dia  
-- Trabalhar em projetos colaborativos  
-- Construir uma base sólida para crescer na área de tecnologia  
-- Estudar e praticar **Engenharia de Software**
+- Criar soluções práticas para o dia a dia  
+- Trabalhar em projetos colaborativos e desafiadores  
+- Construir uma base sólida para crescer como desenvolvedor  
+- Estudar e aplicar conceitos de **Engenharia de Software**
 
 ---
 
 ### 🎯 Objetivo:
-Desenvolver projetos que unam **criatividade**, **eficiência** e **responsabilidade**, contribuindo para a comunidade de desenvolvedores e evoluindo constantemente como profissional.
+Desenvolver projetos que unam **criatividade**, **eficiência** e **responsabilidade**, contribuindo com a comunidade dev e evoluindo constantemente como profissional.
 
 ---
 
 ### 🛠️ Tecnologias em aprendizado:
-- Front-End: `HTML`, `CSS`, `JavaScript`, `TypeScript`
-- Back-End: `PHP`, `Node.js`, `MySQL`
-- Outros: `Python`, `C#`, `Git & GitHub`
+- **Front-End**: `HTML`, `CSS`, `JavaScript`, `TypeScript`
+- **Back-End**: `PHP`, `Node.js`, `MySQL`
+- **Outros**: `Python`, `C#`, `Git & GitHub`
 
 ---
 
-## 📕 Livros lidos (books read)
-• Entendendo Algoritmos (Understanding algorithms)
-</div>
-
----
-
-### 🌐 Portfólio (em desenvolvimento):
-> Em breve, aqui você encontrará projetos que estou desenvolvendo durante meus estudos!
-
----
+### 📕 Livro lido recentemente:
+- *Entendendo Algoritmos* — Aditya Y. Bhargava
 
 
 ### 🤝🏻 &nbsp;Entre em contato comigo! (Contact me!)
