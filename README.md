@@ -16,7 +16,8 @@
 ### 📚 Interesses:
 - Criar soluções práticas para o dia a dia  
 - Trabalhar em projetos colaborativos e desafiadores  
-- Construir uma base sólida para crescer como desenvolvedor  
+- Construir uma base sólida para crescer como desenvolvedor
+- Obter experiência e uma base pra área 
 - Estudar e aplicar conceitos de **Engenharia de Software**
 
 ---
