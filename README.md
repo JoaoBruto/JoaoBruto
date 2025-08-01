@@ -44,7 +44,8 @@ Desenvolver projetos que unam **criatividade**, **eficiência** e **responsabili
 <a href="https://www.linkedin.com/in/jo%C3%A3o-rodrigo-ferreira-freire-a6b23b319/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
-## <picture> <img src = "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width = 30px>  </picture> Github Stats
+## <picture> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>  </picture> Github Stats
+## <picture> <img src = "" width = 30px>  </picture> Github Stats
 
 
 <!--- stats & Trophy (start) -->
