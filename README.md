@@ -46,6 +46,7 @@ Back-End:
 Outros:
   - Python
   - Git & GitHub
+  - jQuery
 
 
 ```
