@@ -37,6 +37,8 @@ Front-End:
   - CSS
   - JavaScript
   - TypeScript
+  - jQuery
+  - Bootstrap
 
 Back-End:
   - PHP
@@ -46,7 +48,7 @@ Back-End:
 Outros:
   - Python
   - Git & GitHub
-  - jQuery
+  - Figma
 
 
 ```
