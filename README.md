@@ -6,6 +6,7 @@
 ---
 
 ### 🚀 Atualmente focado em:
+
 - Aprimorar habilidades no **desenvolvimento Front-End**
 - Estudando **HTML5**, **CSS3**, **JavaScript** e **TypeScript**
 - Explorando tecnologias de **Back-End** como **Node.js** e **MySQL**
@@ -14,28 +15,40 @@
 ---
 
 ### 📚 Interesses:
+
 - Criar soluções práticas para o dia a dia  
 - Trabalhar em projetos colaborativos e desafiadores  
-- Construir uma base sólida para crescer como desenvolvedor
-- Obter experiência e uma base pra área 
-- Estudar e aplicar conceitos de **Engenharia de Software**
+- Construir uma base sólida para crescer como desenvolvedor  
+- Obter experiência e fundamentos na área de **Engenharia de Software**
 
 ---
 
 ### 🎯 Objetivo:
+
 Desenvolver projetos que unam **criatividade**, **eficiência** e **responsabilidade**, contribuindo com a comunidade dev e evoluindo constantemente como profissional.
 
 ---
 
 ### 🛠️ Tecnologias em aprendizado:
-- **Front-End**: `HTML`, `CSS`, `JavaScript`, `TypeScript`
-- **Back-End**: `PHP`, `Node.js`, `MySQL`
-- **Outros**: `Python`, `C#`, `Git & GitHub`
 
----
+```yaml
+Front-End:
+  - HTML
+  - CSS
+  - JavaScript
+  - TypeScript
 
-### 📕 Livro lido recentemente:
-- *Entendendo Algoritmos* — Aditya Y. Bhargava
+Back-End:
+  - PHP
+  - Node.js
+  - MySQL
+
+Outros:
+  - Python
+  - C#
+  - Git & GitHub
+
+```
 
 
 ### 🤝🏻 &nbsp;Entre em contato comigo! (Contact me!)
