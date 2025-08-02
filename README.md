@@ -45,8 +45,8 @@ Back-End:
 
 Outros:
   - Python
-  - C#
   - Git & GitHub
+
 
 ```
 
