@@ -44,9 +44,9 @@ Back-End:
   - PHP
   - Node.js
   - MySQL
+  - Python
 
 Outros:
-  - Python
   - Git & GitHub
   - Figma
 
