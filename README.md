@@ -96,7 +96,7 @@ Outros:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"  width="40" alt="css3 logo"  />
 
 
-## 📍 Outros (outhers)
+## 🐛 Outros (outhers)
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"  width="40" alt="git logo"  />
   <img width="1" />
