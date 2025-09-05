@@ -38,7 +38,7 @@ Front-End:
   - JavaScript
   - TypeScript
   - jQuery
-  - Bootstrap
+  - Bootstrap 4
 
 Back-End:
   - PHP
