@@ -105,7 +105,7 @@ Outros:
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30"  width="40" alt="figma logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=au" height="30" alt="adobeaudition logo" height="30" width="40"  />
+  <img src="https://skillicons.dev/icons?i=pr" height="30" width="40" alt="adobepremierepro logo"  />
   
   
 
