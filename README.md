@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá! Meu nome é João Rodrigo
 
-🎓 Estudante do 2º ano do Ensino Médio 
+🎓 Estudante do 2º ano do Ensino Médio    
 💻 Desenvolvedor Júnior Front-End apaixonado por tecnologia e aprendizado contínuo  
 
 ---
