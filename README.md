@@ -10,7 +10,7 @@
 - Aprimorar habilidades no **desenvolvimento Front-End**
 - Estudando **HTML5**, **CSS3**, **JavaScript** e **TypeScript**
 - Explorando tecnologias de **Back-End** como **Node.js** e **MySQL**
-- Aprofundando conhecimentos em **algoritmos** e **lógica de programação** com **Python** e **PHP**
+- Aprofundando conhecimentos em **algoritmos** e **lógica de programação** com **PHP**
 
 ---
 
