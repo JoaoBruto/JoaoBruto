@@ -1,31 +1,33 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá! Meu nome é João Rodrigo
 
-🎓 Estudante do 2º ano do Ensino Médio    
+🎓 Estudante do 2º ano do Ensino Médio  
 💻 Desenvolvedor Júnior Front-End apaixonado por tecnologia e aprendizado contínuo  
 
 ---
 
 ### 🚀 Atualmente focado em:
 
-- Aprimorar habilidades no **desenvolvimento Front-End**
-- Estudando **HTML5**, **CSS3**, **JavaScript** e **TypeScript**
-- Explorando tecnologias de **Back-End** como **Node.js** e **MySQL**
-- Aprofundando conhecimentos em **algoritmos** e **lógica de programação** com **PHP**
+- Aprimorar habilidades em **HTML5**, **CSS3**, **JavaScript** e **TypeScript**
+- Criar interfaces modernas e responsivas
+- Entender os fundamentos de **Back-End** com **Node.js**, **PHP** e **MySQL**
+- Melhorar a **lógica de programação** e boas práticas de código
 
 ---
 
 ### 📚 Interesses:
 
-- Criar soluções práticas para o dia a dia  
-- Trabalhar em projetos colaborativos e desafiadores  
-- Construir uma base sólida para crescer como desenvolvedor  
-- Obter experiência e fundamentos na área de **Engenharia de Software**
+- Transformar ideias em projetos reais e funcionais  
+- Participar de **projetos colaborativos** que estimulem o aprendizado  
+- Desenvolver uma base sólida rumo à **Engenharia de Software**  
+- Aprender continuamente e compartilhar conhecimento  
 
 ---
 
 ### 🎯 Objetivo:
 
-Desenvolver projetos que unam **criatividade**, **eficiência** e **responsabilidade**, contribuindo com a comunidade dev e evoluindo constantemente como profissional.
+Construir uma trajetória como desenvolvedor que una **criatividade**, **eficiência** e **boas práticas**,  
+evoluindo a cada projeto e contribuindo com a comunidade dev 🚀
+
 
 ---
 
