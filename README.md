@@ -10,7 +10,7 @@
 - Aprimorar habilidades em **HTML5**, **CSS3**, **JavaScript** e **TypeScript**
 - Criar interfaces modernas e responsivas
 - Entender os fundamentos de **Back-End** com **Node.js**, **PHP** e **MySQL**
-- Melhorar a **lógica de programação** e boas práticas de código
+- Melhorar a **lógica de programação** e boas práticas de código (Clean Code)
 
 ---
 
