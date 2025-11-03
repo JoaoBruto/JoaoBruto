@@ -8,7 +8,7 @@
 ### 🚀 Atualmente focado em:
 
 - Aprimorar habilidades em **HTML5**, **CSS3**, **JavaScript** e **TypeScript**
-- Criar interfaces modernas e responsivas
+- Aprimorar habilidade em **UX e UI**
 - Entender os fundamentos de **Back-End** com **Node.js**, **PHP** e **MySQL**
 - Melhorar a **lógica de programação** e boas práticas de código (Clean Code)
 
