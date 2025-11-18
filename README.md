@@ -26,7 +26,7 @@
 ### 🎯 Objetivo:
 
 Construir uma trajetória como desenvolvedor que una **criatividade**, **eficiência** e **boas práticas**,  
-evoluindo a cada projeto e contribuindo com a comunidade dev 🚀
+evoluindo a cada projeto e contribuindo com a comunidade Dev 🚀
 
 
 ---
