@@ -3,15 +3,20 @@
 🎓 Estudante do 2º ano do Ensino Médio <br>
 💻 Desenvolvedor Júnior Front-End apaixonado por tecnologia e aprendizado contínuo  
 
----
 
-### 🚀 Atualmente focado em:
 
-- Aprimorar habilidades em **HTML5**, **CSS3**, **JavaScript** e **TypeScript**
-- Aprimorar habilidade em **UX e UI**
-- Entender os fundamentos de **Back-End** com **Node.js**, **PHP** e **MySQL**
-- Melhorar a **lógica de programação** e boas práticas de código (Clean Code)
+ Atualmente estudando:
+- JavaScript
+- CSS
+- HTML5
+- Figma
+- Entendendo algoritmos
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" alt="python logo"  /><img width="1" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"  width="40" alt="javascript logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"  width="40" alt="html5 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"  width="40" alt="css3 logo"  />
+  
 ---
 
 ### 📚 Interesses:
@@ -76,7 +81,7 @@ Outros:
 
 
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=JoaoBruto&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
