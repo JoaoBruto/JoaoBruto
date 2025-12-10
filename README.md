@@ -28,13 +28,18 @@
 - Participar de **projetos colaborativos** que estimulem o aprendizado  
 - Desenvolver uma base sólida rumo à **Engenharia de Software**  
 - Aprender continuamente e compartilhar conhecimento  
-
 ---
+<h3></h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
 
 ### 🎯 Objetivo:
 
 Construir uma trajetória como desenvolvedor que una **criatividade**, **eficiência** e **boas práticas**,  
 evoluindo a cada projeto e contribuindo com a comunidade Dev 🚀
+
+
+
 
 
 ---
@@ -70,23 +75,6 @@ Outros:
 <a href="https://www.linkedin.com/in/jo%C3%A3o-rodrigo-ferreira-freire-a6b23b319/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
-## <picture> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>  </picture> Github Stats
-
-
-
-<!--- stats (start) -->
-
-<p align="left">
-  <!--- stats (start) -->
-<h3></h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
-
-
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=JoaoBruto&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 
 
@@ -115,14 +103,10 @@ Outros:
   
 
 
+<td width="50%" align="center"> <br><br><br>
 
 
-
-
-<td width="50%" align="center">
-
-
- 
+<img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
 
   </td>
 </tr>
@@ -130,11 +114,9 @@ Outros:
 
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ---
 
-<img src="https://github-profile-trophy.vercel.app?username=JoaoBruto&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 
 
