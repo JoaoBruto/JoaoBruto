@@ -10,7 +10,7 @@
 - CSS
 - HTML5
 - Figma
-- Entendendo algoritmos
+- Algoritmos
 
 
 
