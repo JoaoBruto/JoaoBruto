@@ -1,72 +1,38 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá! Meu nome é João Rodrigo
 
-🎓 Estudante do 2º ano do Ensino Médio <br>
-💻 Desenvolvedor Freelance Júnior Front-End apaixonado por tecnologia e aprendizado contínuo  
+🎓 Estudante do 3º ano do Ensino Médio <br>
+💻 Web Developer: <strong>JavaScript, Python</strong>
 
 
 
- Atualmente estudando:
-- JavaScript
-- CSS
-- HTML5
-- Figma
-- Algoritmos
+Atualmente: estudando <strong>JavaScript, HTML e CSS</strong> e <strong>explorando </strong> CleanCode, Algoritmos e fundamentos de Engenharia de Software
 
 
+<div align="center"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="900" width="50" alt="python logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="900" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="900" width="50" />         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="900" width="50" />          
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" alt="python logo"  /><img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"  width="40" alt="javascript logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"  width="40" alt="html5 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"  width="40" alt="css3 logo"  />
-
+### Complementares
+Figma, Git, GitHub, Vscode, Clean Code,<br>
+Entendendo Algoritmos
 
 ---
 
-### 📚 Interesses:
-
-- Transformar ideias em projetos reais e funcionais  
-- Participar de **projetos colaborativos** que estimulem o aprendizado  
-- Desenvolver uma base sólida rumo à **Engenharia de Software**  
-- Aprender continuamente e compartilhar conhecimento  
----
 <h3></h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
-### 🎯 Objetivo:
-
-Construir uma trajetória como desenvolvedor que una **criatividade**, **eficiência** e **boas práticas**,  
-evoluindo a cada projeto e contribuindo com a comunidade Dev 🚀
 
 
 
 
 
----
-
-### 🛠️ Tecnologias em aprendizado:
-
-```yaml
-Front-End:
-  - HTML
-  - CSS
-  - JavaScript
-  - TypeScript
-  - jQuery
-  - Bootstrap 4
-
-Back-End:
-  - PHP
-  - Node.js
-  - MySQL
-  - Python
-
-Outros:
-  - Git & GitHub
-  - Figma
 
 
-```
+
 
 
 ### 🤝🏻 &nbsp;Entre em contato comigo! (Contact me!)
@@ -82,23 +48,7 @@ Outros:
   
 
   
-## 👽 Linguagens (Languages)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" alt="python logo"  /><img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"  width="40" alt="javascript logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"  width="40" alt="html5 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"  width="40" alt="css3 logo"  />
 
-
-## 🐛 Outros (outhers)
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"  width="40" alt="git logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" width="40" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"  width="40" alt="vscode logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30"  width="40" alt="figma logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=pr" height="30" width="40" alt="adobepremierepro logo"  />
   
   
 
