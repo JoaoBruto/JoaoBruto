@@ -17,7 +17,7 @@ Atualmente: estudando <strong>JavaScript, HTML e CSS</strong> e <strong>exploran
 
 ### Complementares
 Figma, Git, GitHub, Vscode, Clean Code,<br>
-Entendendo Algoritmos
+Entendendo Algoritmos (book)
 
 ---
 
