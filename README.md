@@ -5,7 +5,7 @@
 
 
 
-Atualmente: estudando <strong>JavaScript, HTML e CSS</strong> e <strong>explorando </strong> CleanCode, Algoritmos e fundamentos de Engenharia de Software
+Atualmente: estudando <strong>JavaScript, HTML e CSS</strong> e <strong>explorando </strong> CleanCode (course), Algoritmos e fundamentos de Engenharia de Software
 
 
 <div align="center"><br>
