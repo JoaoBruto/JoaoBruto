@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá! Meu nome é João Rodrigo.
 
 🎓 Estudante do 3º ano do Ensino Médio <br>
-💻 Web Developer: <strong>JavaScript, PHP, Typescript</strong>
+💻 Web Developer: <strong>JavaScript, PHP, Typescript, ReactJS</strong>
 
 
 
@@ -12,7 +12,8 @@ Atualmente: estudando <strong>JavaScript, HTML e CSS</strong> e <strong>exploran
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="900" width="50" alt="python logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="900" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="900" width="50" />         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="900" width="50" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="900" width="50" /> 
+<img src="https://devicon-website.vercel.app/api/react/original.svg" height="900" width="50"></img>
 </div>
 
 ### Complementares
