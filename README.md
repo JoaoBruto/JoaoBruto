@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá! Meu nome é João Rodrigo.
 
 🎓 Estudante do 3º ano do Ensino Médio <br>
-💻 Web Developer: <strong>JavaScript, PHP, Typescript, ReactJS</strong>
+💻 Web Developer FullStack: <strong>JavaScript,Typescript, ReactJS</strong>
 
 
 
