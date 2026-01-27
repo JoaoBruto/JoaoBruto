@@ -19,7 +19,7 @@ Explorando:  <strong>CleanCode (course), Algoritmos e fundamentos de Engenharia 
 
 ### Complementares
 Figma, Git, GitHub, Vscode, Clean Code,<br>
-Entendendo Algoritmos (book)
+Entendendo Algoritmos (book), Software and hardware experience
 
 ---
 
