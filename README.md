@@ -46,7 +46,7 @@ Entendendo Algoritmos (book), Software and hardware experience
 
 
 
-<hr width="60%" >
+
   
 
   
