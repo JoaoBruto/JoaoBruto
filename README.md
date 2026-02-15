@@ -17,7 +17,7 @@ Exploring:  <strong>CleanCode (course), Algorithms and Fundamentals of Software 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="900" width="50" />
 </div>
 
-### Complementares
+### Complementary
 Figma, Git, GitHub, Vscode,<br>
 Entendendo Algoritmos (book), Software and hardware experience
 
