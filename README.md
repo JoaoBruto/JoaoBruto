@@ -6,7 +6,7 @@
 
 
 Currently studying:  <strong>JavaScript (ReactJS e pure JS), HTML e CSS</strong> 
-Exploring:  <strong>CleanCode (course), Algorithms and Fundamentals of Software Engineering</strong>
+Exploring:  <strong>CleanCode, Algorithms and Fundamentals of Software Engineering</strong>
 
 
 <div align="center"><br>
