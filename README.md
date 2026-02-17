@@ -5,7 +5,7 @@
 
 
 
-Currently studying:  <strong>JavaScript (ReactJS e pure JS), HTML e CSS</strong> 
+Currently studying:  <strong>JavaScript (ReactJS), HTML e CSS</strong> 
 Exploring:  <strong>CleanCode, Algorithms and Fundamentals of Software Engineering</strong>
 
 
