@@ -38,7 +38,6 @@ Entendendo Algoritmos (book), Software and hardware experience
 
 
 ### 🤝🏻 &nbsp;Get in touch with me!
-<a href="https://instagram.com/_joaoroodrigo"><img src="https://img.shields.io/badge/__joaoroodrigo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:joaofreire2408@gmail.com"><img src="https://img.shields.io/badge/-joaofreire2408@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/joaorodrigo-ferreira/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
