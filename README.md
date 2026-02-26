@@ -19,7 +19,7 @@ Exploring:  <strong>CleanCode, Algorithms and Fundamentals of Software Engineeri
 
 ### Complementary
 Figma, Git, GitHub, Vscode,<br>
-Entendendo Algoritmos (book), Software and hardware experience
+Entendendo Algoritmos (book)
 
 ---
 
