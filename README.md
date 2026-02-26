@@ -11,8 +11,6 @@ Exploring:  <strong>CleanCode, Algorithms and Fundamentals of Software Engineeri
 
 <div align="center"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="900" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="900" width="50" />         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="900" width="50" /> 
 <img src="https://devicon-website.vercel.app/api/react/original.svg" height="900" width="50"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="900" width="50" />
 </div>
