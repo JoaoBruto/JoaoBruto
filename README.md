@@ -1,19 +1,20 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey! My name is João Rodrigo.
 
-🎓 I'm a high school student and aspiring FullStack developer passionate about programming and technology. <br>
-💻 Web Developer FullStack: <strong>JavaScript, Typescript</strong>
+🎓 High School Student  
+💻 Aspiring Full-Stack Web Developer
 
 
 
-Currently focused on learning and building projects using:
-JavaScript
-TypeScript
-React
-HTML
-CSS
+Currently studying: <br>
+JavaScript • TypeScript • React • HTML • CSS  
 
-Technologies and Tools: <br>
-JavaScript | TypeScript | React | Git | GitHub | VSCode | Figma
+
+Exploring: <br>
+Clean Code • Algorithms • Software Engineering Fundamentals
+
+---
+
+### 🛠 Tech Stack
 
 <div align="center"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" width="50" />
