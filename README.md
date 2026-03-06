@@ -22,9 +22,12 @@ Clean Code • Algorithms • Software Engineering Fundamentals
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" width="50" />
 </div>
 
-### Complementary
-Figma, Git, GitHub, Vscode,<br>
-Entendendo Algoritmos (book)
+---
+
+### 📚 Tools
+
+Figma • Git • GitHub • VSCode  
+Reading: *Entendendo Algoritmos*
 
 <h3></h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
@@ -44,7 +47,7 @@ Entendendo Algoritmos (book)
 
 
 
-### 🤝🏻 &nbsp;Get in touch with me!
+### 📬 Contact
 <a href="mailto:joaofreire2408@gmail.com"><img src="https://img.shields.io/badge/-joaofreire2408@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/joaorodrigo-ferreira/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
