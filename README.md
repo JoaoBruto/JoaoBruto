@@ -1,18 +1,24 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey! My name is João Rodrigo.
 
-🎓 3rd year high school student <br>
+🎓 I'm a high school student and aspiring FullStack developer passionate about programming and technology. <br>
 💻 Web Developer FullStack: <strong>JavaScript, Typescript</strong>
 
 
 
-Currently studying:  <strong>JavaScript, TypeScript, ReactJS, HTML e CSS</strong> 
-Exploring:  <strong>CleanCode, Algorithms and Fundamentals of Software Engineering</strong>
+Currently focused on learning and building projects using:
+JavaScript
+TypeScript
+React
+HTML
+CSS
 
+Technologies and Tools: <br>
+JavaScript | TypeScript | React | Git | GitHub | VSCode | Figma
 
 <div align="center"><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="900" width="50" />
-<img src="https://devicon-website.vercel.app/api/react/original.svg" height="900" width="50"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="900" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" width="50" />
+<img src="https://devicon-website.vercel.app/api/react/original.svg" height="50" width="50"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" width="50" />
 </div>
 
 ### Complementary
