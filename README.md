@@ -47,7 +47,7 @@ Reading: *Entendendo Algoritmos*
 
 ### 📬 Contact
 <a href="mailto:joaofreire2408@gmail.com"><img src="https://img.shields.io/badge/-joaofreire2408@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/joaorodrigo-ferreira/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaorodrigo-ferreira/)
 
 
 
