@@ -54,7 +54,13 @@ Reading: *Entendendo Algoritmos*
 
 
 
+---
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
 
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoBruto&hide_border=true" />
+</details>
 
   
 
@@ -72,6 +78,9 @@ Reading: *Entendendo Algoritmos*
   </td>
 </tr>
 </table
+
+
+
 
 
 
