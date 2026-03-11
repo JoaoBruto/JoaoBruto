@@ -29,7 +29,7 @@ Clean Code • Algorithms • Software Engineering Fundamentals
 ### 📚 Tools
 
 Figma • Git • GitHub • VSCode  
-Reading: *Entendendo Algoritmos*
+Reading: **Entendendo Algoritmos**
 
 
 
