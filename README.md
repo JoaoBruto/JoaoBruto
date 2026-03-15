@@ -6,7 +6,7 @@
 
 
 Currently studying: <br>
-JavaScript • TypeScript • React • HTML • CSS  
+JavaScript • TypeScript • React • CSS  
 
 
 Exploring: <br>
