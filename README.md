@@ -5,7 +5,7 @@
 
 
 
-Currently studying: <br>
+### Currently studying: <br>
 JavaScript • TypeScript • React • CSS • HTML
 
 
