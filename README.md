@@ -3,6 +3,8 @@
 🎓 High School Student  
 💻 Full-Stack Web Developer
 
+**Status:** 🟢 Open to opportunities and collaborations!
+
 
 
 ### Currently studying: <br>
