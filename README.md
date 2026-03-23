@@ -7,12 +7,9 @@
 
 
 
-### Currently studying: <br>
-JavaScript • TypeScript • React • CSS • HTML
+### 📚 Currently Studying
 
-
-Exploring: <br>
-Clean Code • Algorithms • Software Engineering Fundamentals
+JavaScript • TypeScript • React • CSS • HTML • Clean Code • Algorithms • Software Engineering Fundamentals
 
 ---
 
