@@ -36,17 +36,6 @@ Reading: **Entendendo Algoritmos**
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
 ### 📬 Contact
 <a href="mailto:joaofreire2408@gmail.com"><img src="https://img.shields.io/badge/-joaofreire2408@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaorodrigo-ferreira/)
@@ -62,13 +51,6 @@ Reading: **Entendendo Algoritmos**
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoBruto&hide_border=true" />
 </details>
 
-  
-
-  
-
-  
-  
-
 
 <td width="50%" align="center"> <br><br>
 
@@ -78,22 +60,5 @@ Reading: **Entendendo Algoritmos**
   </td>
 </tr>
 </table
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-
 
 
