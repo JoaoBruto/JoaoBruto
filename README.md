@@ -27,7 +27,6 @@ JavaScript • TypeScript • React • CSS • HTML • Clean Code • Algorith
 Figma • Git • GitHub • VSCode  
 Reading: **Entendendo Algoritmos**
 
-
 ---
 
 ### 📬 Contact
@@ -35,10 +34,12 @@ Reading: **Entendendo Algoritmos**
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaorodrigo-ferreira/) <br>
 **Status:** 🟢 Open to opportunities and collaborations!
 
-
 ---
+
 <details>
-  <summary><b>☄️Github Streak</b></summary>
+  <summary>
+    <b>☄️Github Streak</b>
+  </summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoBruto&hide_border=true" />
