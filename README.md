@@ -3,7 +3,6 @@
 🎓 High School Student  
 💻 Full-Stack Web Developer
 
-
 ### 📚 Currently Studying
 
 JavaScript • TypeScript • React • CSS • HTML • Clean Code • Algorithms • Software Engineering Fundamentals
