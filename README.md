@@ -24,7 +24,7 @@ JavaScript • TypeScript • React • CSS • HTML • Clean Code • Algorith
 ### 📚 Tools
 
 Figma • Git • GitHub • VSCode  
-Reading: **Entendendo Algoritmos**.
+Reading: **Entendendo Algoritmos**
 
 ---
 
