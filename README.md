@@ -37,7 +37,7 @@ Reading: **Entendendo Algoritmos**
 
 <details>
   <summary>
-    <b>☄️Github Streak</b>
+    <b>☄️Github Streaks</b>
   </summary>
 
   <br />
