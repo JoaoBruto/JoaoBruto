@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey! My name is João Rodrigo
 🎓 High School Student <br>
-💻 Full-Stack Web Developer
+💻 Full-Stack Web Developer 
 
 ###  Currently Studying
 
