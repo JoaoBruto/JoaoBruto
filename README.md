@@ -4,7 +4,7 @@
 
 ###  Currently Studying
 
-JavaScript • TypeScript • React • CSS • HTML • Clean Code • Algorithms • Software Engineering Fundamentals
+JavaScript • TypeScript • React • CSS • HTML • Clean Code • Algorithms • Software Engineering Fundamentals 
 
 ---
 
