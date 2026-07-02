@@ -1,10 +1,11 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey!! My name is João Rodrigo
 🎓 High School Student <br>
 💻 Full-Stack Web Developer
+🐧 DBA - DataBase Administrator
 
 ###  Currently Studying
 
-JavaScript • TypeScript • React • CSS • HTML • Clean Code • Algorithms • Software Engineering Fundamentals 
+JavaScript • TypeScript • React • CSS • HTML • MySQL • Algorithms • Software Engineering Fundamentals 
 
 ---
 
