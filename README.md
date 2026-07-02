@@ -22,8 +22,7 @@ JavaScript • TypeScript • React • CSS • HTML • MySQL • Algorithms �
 
 ### 📚 Tools
 
-Figma • Git • GitHub • VSCode
-Reading: **Entendendo Algoritmos**
+Figma • Git • GitHub • VSCode • XAMPP • PHPMyAdmin
 
 ---
 
