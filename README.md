@@ -39,7 +39,7 @@ Figma • Git • GitHub • VSCode • XAMPP • PHPMyAdmin
   </summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoBruto&hide_border=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JoaoBruto&theme=radical&hide_border=true&type=png" alt="GitHub Streak" /></a>
 </details>
 
 
