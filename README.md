@@ -38,7 +38,6 @@ Email: joaofreire185710@gmail.com
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JoaoBruto&theme=radical&hide_border=true&type=png" alt="GitHub Streak" /></a>
-  <img src="https://raw.githubusercontent.com/JoaoBruto/JoaoBruto/HEAD/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" alt="Linguagens" />
 </div>
 
 ---
