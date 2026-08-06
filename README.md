@@ -35,8 +35,10 @@ Figma • Git • GitHub • VSCode • XAMPP • PHPMyAdmin
 
   ### ☄️Github Streaks</b>
 
-  <br />
+<div data-importer="stats" align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JoaoBruto&theme=radical&hide_border=true&type=png" alt="GitHub Streak" /></a>
+  <img src="https://raw.githubusercontent.com/JoaoBruto/JoaoBruto/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" alt="languages graph"/>
+</div>
 
 
 
