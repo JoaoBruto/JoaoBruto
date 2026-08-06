@@ -33,14 +33,11 @@ Figma • Git • GitHub • VSCode • XAMPP • PHPMyAdmin
 
 ---
 
-<details>
-  <summary>
-    <b>☄️Github Streaks</b>
-  </summary>
+  ### ☄️Github Streaks</b>
 
   <br />
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JoaoBruto&theme=radical&hide_border=true&type=png" alt="GitHub Streak" /></a>
-</details>
+
 
 
 <td width="50%" align="center"> <br><br>
