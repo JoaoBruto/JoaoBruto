@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="220" viewBox="0 0 640 220" role="img" aria-labelledby="title desc">
+  <title id="title">Linguagens</title>
+  <desc id="desc">Distribuição de linguagens nos repositórios públicos de JoaoBruto: JavaScript 37.9%, TypeScript 9.7%, HTML 20.7%, CSS 21.1%, Python 10.7%.</desc>
+  <rect width="100%" height="100%" fill="#0b0f1a" rx="8"/>
+  <text x="28" y="40" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#ffffff">Linguagens</text>
+
+  <!-- JavaScript -->
+  <text x="28" y="80" font-family="Arial" font-size="14" fill="#ffffff">JavaScript</text>
+  <rect x="140" y="66" width="420" height="16" rx="8" fill="#2b2b2b"/>
+  <rect x="140" y="66" width="159" height="16" rx="8" fill="#f7df1e"/>
+  <text x="576" y="80" font-family="Arial" font-size="12" fill="#ffffff">37.9%</text>
+
+  <!-- TypeScript -->
+  <text x="28" y="110" font-family="Arial" font-size="14" fill="#ffffff">TypeScript</text>
+  <rect x="140" y="96" width="420" height="16" rx="8" fill="#2b2b2b"/>
+  <rect x="140" y="96" width="41" height="16" rx="8" fill="#3178c6"/>
+  <text x="576" y="110" font-family="Arial" font-size="12" fill="#ffffff">9.7%</text>
+
+  <!-- HTML -->
+  <text x="28" y="140" font-family="Arial" font-size="14" fill="#ffffff">HTML</text>
+  <rect x="140" y="126" width="420" height="16" rx="8" fill="#2b2b2b"/>
+  <rect x="140" y="126" width="87" height="16" rx="8" fill="#e34c26"/>
+  <text x="576" y="140" font-family="Arial" font-size="12" fill="#ffffff">20.7%</text>
+
+  <!-- CSS -->
+  <text x="28" y="170" font-family="Arial" font-size="14" fill="#ffffff">CSS</text>
+  <rect x="140" y="156" width="420" height="16" rx="8" fill="#2b2b2b"/>
+  <rect x="140" y="156" width="89" height="16" rx="8" fill="#1572b6"/>
+  <text x="576" y="170" font-family="Arial" font-size="12" fill="#ffffff">21.1%</text>
+
+  <!-- Python -->
+  <text x="28" y="200" font-family="Arial" font-size="14" fill="#ffffff">Python</text>
+  <rect x="140" y="186" width="420" height="16" rx="8" fill="#2b2b2b"/>
+  <rect x="140" y="186" width="45" height="16" rx="8" fill="#3776ab"/>
+  <text x="576" y="200" font-family="Arial" font-size="12" fill="#ffffff">10.7%</text>
+</svg>
