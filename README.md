@@ -1,53 +1,48 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey!! My name is João Rodrigo
-🎓 High School Student <br>
-💻 Full-Stack Web Developer <br>
-🐧 DBA - DataBase Administrator
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="oi"> Olá — eu sou João Rodrigo
 
-###  Currently Studying
+🎓 Estudante do Ensino Médio · 💻 Desenvolvedor Full‑Stack · 🐧 Administrador de Banco de Dados (DBA)
 
-JavaScript • TypeScript • React • CSS • HTML • MySQL • Algorithms • Software Engineering Fundamentals
+### Atualmente estudando
+
+JavaScript • TypeScript • React • CSS • HTML • MySQL • Algoritmos • Fundamentos de Engenharia de Software
 
 ---
 
 ### 🛠 Tech Stack
 
-<div align="center"><br>
-<code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="47" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="terminal"></code>
-<code><img height="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>  
+<div align="center">
+  <code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" /></code>
+  <code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" /></code>
+  <code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" /></code>
+  <code><img height="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" /></code>
+  <code><img height="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" /></code>
 </div>
 
 ---
 
-### 📚 Tools
+### 📚 Ferramentas
 
 Figma • Git • GitHub • VSCode • XAMPP • PHPMyAdmin
 
 ---
 
-### 📬 Contact
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaorodrigo-ferreira/) <br>
-**Status:** 🟢 Open to opportunities and collaborations!!
+### 📬 Contato
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaorodrigo-ferreira/)  
+Email: seu-email@exemplo.com  
+**Status:** 🟢 Aberto a oportunidades e colaborações
 
 ---
 
-  ### ☄️Github Streaks</b>
+### ☄️ GitHub Streaks
 
-<div data-importer="stats" align="center">
+<div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JoaoBruto&theme=radical&hide_border=true&type=png" alt="GitHub Streak" /></a>
-  <img src="https://raw.githubusercontent.com/JoaoBruto/JoaoBruto/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" alt="languages graph"/>
+  <img src="https://raw.githubusercontent.com/JoaoBruto/JoaoBruto/HEAD/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" alt="Linguagens" />
 </div>
 
+---
 
-
-<td width="50%" align="center"> <br><br>
-
-
-<img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
-
-  </td>
-</tr>
-</table
-
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy" style="display:block; margin: 12px auto;" />
+</div>
