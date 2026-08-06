@@ -29,7 +29,7 @@ Figma • Git • GitHub • VSCode • XAMPP • PHPMyAdmin
 ### 📬 Contato
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaorodrigo-ferreira/)  
-Email: seu-email@exemplo.com  
+Email: joaofreire185710@gmail.com  
 **Status:** 🟢 Aberto a oportunidades e colaborações
 
 ---
