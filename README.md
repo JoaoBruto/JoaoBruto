@@ -28,7 +28,6 @@ Figma • Git • GitHub • VSCode • XAMPP • PHPMyAdmin
 ---
 
 ### 📬 Contact
-<a href="mailto:joaofreire2408@gmail.com"><img src="https://img.shields.io/badge/-joaofreire2408@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaorodrigo-ferreira/) <br>
 **Status:** 🟢 Open to opportunities and collaborations!!
 
