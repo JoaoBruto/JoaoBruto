@@ -37,7 +37,7 @@ Email: joaofreire185710@gmail.com
 ### ☄️ GitHub Streaks
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JoaoBruto&theme=radical&hide_border=true&type=png" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JoaoBruto&theme=radical&hide_border=true&type=svg" alt="GitHub Streak" /></a>
 </div>
 
 ---
