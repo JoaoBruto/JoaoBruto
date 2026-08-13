@@ -4,7 +4,7 @@
 
 ### Atualmente estudando
 
-JavaScript • TypeScript • React • CSS • HTML • MySQL • Algoritmos
+JavaScript • TypeScript • React • CSS • HTML • MySQL • Algoritmos • Python
 
 ---
 
