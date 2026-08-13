@@ -32,7 +32,6 @@ Figma • Git • GitHub • VSCode • XAMPP • PHPMyAdmin
 Email: joaofreire185710@gmail.com  
 **Status:** 🟢 Aberto a oportunidades e colaborações
 
----
 
 
 <div align="center">
