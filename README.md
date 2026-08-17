@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="oi"> Olá — meu nome é João Rodrigo
 
-🎓 Estudante do Ensino Médio · 💻 Desenvolvedor Full‑Stack · 🐧 Administrador de Banco de Dados (DBA) 
+🎓 Estudante do Ensino Médio · 💻 Desenvolvedor Full‑Stack · 🐧 Administrador de Banco de Dados (DBA)
 
 ### Atualmente estudando
 
