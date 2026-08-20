@@ -16,6 +16,7 @@ JavaScript • TypeScript • React • CSS • HTML • MySQL • Algoritmos �
   <code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" /></code>
   <code><img height="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" /></code>
   <code><img height="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" /></code>
+  <code><img height="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" /></code>
 </div>
 
 ---
