@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="oi"> Olá — meu nome é João Rodrigo!
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="oi"> Olá — meu nome é João Rodrigo! 
 
 🎓 Estudante do Ensino Médio · 💻 Desenvolvedor Full‑Stack | Back-End focused · 🐧 Administrador de Banco de Dados (DBA)
 
