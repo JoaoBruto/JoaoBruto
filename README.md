@@ -30,7 +30,7 @@ Figma • Git • GitHub • VSCode • XAMPP • PHPMyAdmin • Intellij Idea
 ### 📬 Contato
 LinkedIn: https://www.linkedin.com/in/joaorodrigo-ferreira/ <br>
 Email: joaofreire185710@gmail.com  
-**Status:** 🟢 Aberto a oportunidades e colaborações
+**Status:** 🟢 Aberto a oportunidades e colaborações!!
 
 
 
