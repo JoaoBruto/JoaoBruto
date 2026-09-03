@@ -2,7 +2,7 @@
 
 🎓 Estudante do Ensino Médio · 💻 Desenvolvedor Full‑Stack | Back-End focused · 🐧 Administrador de Banco de Dados (DBA)
 
-### Atualmente estudando
+### 📝 Atualmente estudando
 
 Java • Java POO • MySQL • Algoritmos • Python
 
