@@ -4,7 +4,7 @@
 
 ### Atualmente estudando
 
-Java • MySQL • Algoritmos • Python
+Java • Java POO • MySQL • Algoritmos • Python
 
 ---
 
